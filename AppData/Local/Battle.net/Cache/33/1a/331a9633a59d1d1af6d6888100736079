@@ -1,0 +1,1 @@
+{"fragment_id":"osi_limited_product","products":[{"base":{"types":{"osi_dev":{"deprecated":true,"name":"osi_limited_product#OSI_NAME_INTERNAL_ALPHA","selector_display_name":"osi_limited_product#OSI_NAME_INTERNAL_ALPHA"}}},"id":"OSI"}],"strings":{"default":{"osi_limited_product#OSI_NAME_INTERNAL_ALPHA":"D2R: Internal Alpha"}},"version":29}
